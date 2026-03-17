@@ -1,6 +1,11 @@
 # Jobs
-# Experience
-# Camp Counselor
-  description: Supervised groups of campers ages 8-12, led daily activities, ensured safety, and fostered a positive, inclusive camp environment.
-# High School Robotics Club Vice President
-  description: Organized and mentored younger members, coordinated meetings, and kept projects on schedule to maximize learning and team productivity.
+
+- company: YMCA
+  position: Camp Counselor
+  duration: Jun, 2023 — Aug, 2023
+  summary: Supervised groups of campers, led daily activities, and maintained a safe, positive environment.
+
+- company: High School Robotics Club
+  position: Vice President
+  duration: Sept, 2022 — May, 2024
+  summary: Organized meetings, mentored younger members, and coordinated project schedules to support team productivity.
