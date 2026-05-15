@@ -47,8 +47,6 @@ resume_section_associations:    true
 resume_social_links:
   resume_github_url:            "https://github.com/dylann-ctrl"
   resume_linkedin_url:          "https://www.linkedin.com/in/dylan-nichols-a6172a399/"
-  # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "https://www.instagram.com/dylanthevillian55/"
 resume_print_social_links:      true
 
 # Design settings
