@@ -17,10 +17,10 @@ resume_title:                   "Mechanical Engineering Student"
 resume_contact_email:           "dylann@gwmail.gwu.edu"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "(617)-564-5591"
-resume_contact_address:         "162 Melsore St, Newton, MA"
+resume_contact_telephone:       "617-564-5591"
+resume_contact_address:         "162 Melrose St, Newton, MA"
 
-resume_header_contact_info:     "162 Melrose St, Newton, MA • (617)-564-5591 • dylann@gwmail.gwu.edu"
+resume_header_contact_info:     "162 Melrose St, Newton, MA • 617-564-5591 • dylann@gwmail.gwu.edu"
 display_header_contact_info:    "true"
 
 resume_header_intro: "<p>Developing strong foundations in mechanical design, materials, and engineering analysis. Experienced with CAD tools and collaborative project environments; motivated to apply technical skills to meaningful engineering challenges.</p>"
